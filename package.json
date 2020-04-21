@@ -1,0 +1,27 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "workout tracker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongojs": "^3.1.0",
+    "mongoose": "^5.9.10",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RimaOdolski/Workout-Tracker.git"
+  },
+  "author": "Rima Odolski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RimaOdolski/Workout-Tracker/issues"
+  },
+  "homepage": "https://github.com/RimaOdolski/Workout-Tracker#readme"
+}
