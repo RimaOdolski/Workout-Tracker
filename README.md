@@ -28,3 +28,5 @@ The user should be able to:
   ```
 
    ![Snippet](Develop/public/Snippet.png)
+    ![Snippet](Develop/public/snippet2.png)
+
